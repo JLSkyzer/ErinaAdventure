@@ -1,0 +1,20 @@
+{
+  "group": "minecraftmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmod:copper_ingot"
+    },
+    "1": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "minecraftmod:copper_in_bukket",
+    "count": 1
+  }
+}

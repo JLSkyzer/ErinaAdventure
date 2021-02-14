@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planet_teleporter_base",
+        "1": "claynoire",
+        "2": "other_planet"
+      },
+      "name": "default"
+    }
+  }
+}

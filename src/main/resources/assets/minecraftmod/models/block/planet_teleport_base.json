@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/planet_teleporter_base",
+    "up": "minecraftmod:blocks/planet_teleporter_base",
+    "north": "minecraftmod:blocks/planet_teleporter_base",
+    "east": "minecraftmod:blocks/planet_teleporter_base",
+    "south": "minecraftmod:blocks/planet_teleporter_base",
+    "west": "minecraftmod:blocks/planet_teleporter_base",
+    "particle": "minecraftmod:blocks/planet_teleporter_base"
+  }
+}

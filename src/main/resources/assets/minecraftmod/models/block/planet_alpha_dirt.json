@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/planet_alpha_dirt",
+    "up": "minecraftmod:blocks/planet_alpha_dirt",
+    "north": "minecraftmod:blocks/planet_alpha_dirt",
+    "east": "minecraftmod:blocks/planet_alpha_dirt",
+    "south": "minecraftmod:blocks/planet_alpha_dirt",
+    "west": "minecraftmod:blocks/planet_alpha_dirt",
+    "particle": "minecraftmod:blocks/planet_alpha_dirt"
+  }
+}

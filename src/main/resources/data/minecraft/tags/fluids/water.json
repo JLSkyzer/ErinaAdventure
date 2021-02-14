@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraftmod:uranium_liquid",
+    "minecraftmod:uranium_liquid_flowing"
+  ]
+}

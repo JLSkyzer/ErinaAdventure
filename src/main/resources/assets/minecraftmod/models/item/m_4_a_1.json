@@ -1,0 +1,8 @@
+{
+  "parent": "minecraftmod:custom/m4a1",
+  "textures": {
+    "0": "minecraftmod:blocks/arme_1",
+    "1": "minecraftmod:blocks/magazine",
+    "particle": "minecraftmod:items/test_gun"
+  }
+}

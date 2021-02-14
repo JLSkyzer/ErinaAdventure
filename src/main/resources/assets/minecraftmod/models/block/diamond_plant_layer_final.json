@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "minecraftmod:blocks/diamond_plant_layer_final",
+    "particle": "minecraftmod:blocks/diamond_plant_layer_final"
+  }
+}

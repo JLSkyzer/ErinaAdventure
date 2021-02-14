@@ -1,0 +1,12 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "K",
+    "keyBindingName": "Get Lvl",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "GetLvl"
+    }
+  }
+}

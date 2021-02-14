@@ -1,0 +1,27 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "sabre_texture",
+    "customModelName": "sabre:default",
+    "name": "Sabre",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:BloodTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 1.8,
+    "enchantability": 20,
+    "damageVsEntity": 9.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

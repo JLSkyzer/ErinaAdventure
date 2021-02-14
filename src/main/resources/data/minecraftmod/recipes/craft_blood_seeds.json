@@ -1,0 +1,20 @@
+{
+  "group": "minecraftmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmod:blood_bottle"
+    },
+    "1": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "item": "minecraftmod:blood_seeds",
+    "count": 1
+  }
+}

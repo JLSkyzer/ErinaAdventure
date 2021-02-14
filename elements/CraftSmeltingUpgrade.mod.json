@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodBottle"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodNuggets"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:BloodNuggets"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodNuggets"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmeltingUpgrade"
+    },
+    "name": "craft_smelting_upgrade",
+    "namespace": "mod"
+  }
+}

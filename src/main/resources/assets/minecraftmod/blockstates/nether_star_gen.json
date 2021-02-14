@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraftmod:block/nether_star_gen"
+    }
+  }
+}

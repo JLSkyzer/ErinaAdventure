@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "arme_1",
+        "1": "magazine"
+      },
+      "name": "default"
+    }
+  }
+}

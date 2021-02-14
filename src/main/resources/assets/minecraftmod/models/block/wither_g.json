@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/generator_face",
+    "up": "minecraftmod:blocks/generator_face",
+    "north": "minecraftmod:blocks/wither_gen",
+    "east": "minecraftmod:blocks/wither_gen",
+    "south": "minecraftmod:blocks/wither_gen",
+    "west": "minecraftmod:blocks/wither_gen",
+    "particle": "minecraftmod:blocks/generator_face"
+  }
+}

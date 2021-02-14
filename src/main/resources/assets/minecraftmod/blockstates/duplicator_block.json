@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraftmod:block/duplicator_block"
+    }
+  }
+}

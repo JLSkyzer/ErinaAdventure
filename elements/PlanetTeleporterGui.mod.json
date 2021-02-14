@@ -1,0 +1,55 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 312,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Planet Teleporter",
+          "color": {
+            "value": -6107136,
+            "falpha": 0.0
+          },
+          "name": "Planet Teleporter",
+          "x": 162,
+          "y": 16
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:text:error>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:text:error>",
+          "x": 60,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Planet Alpha",
+          "onClick": {
+            "name": "PlanetAlphaBtn"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Planet Alpha",
+          "x": 60,
+          "y": 62
+        }
+      }
+    ]
+  }
+}

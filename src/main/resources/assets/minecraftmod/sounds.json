@@ -1,0 +1,38 @@
+{
+  "usher_yeah": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "minecraftmod:usher_-_yeah_ft._lil_jon_ludacris",
+        "stream": false
+      }
+    ]
+  },
+  "survivor_amv": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "minecraftmod:attack-on-titanamv-survivor",
+        "stream": false
+      }
+    ]
+  },
+  "natural_amv": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "minecraftmod:attack-on-titan-levi-ackerman-amv-natural",
+        "stream": false
+      }
+    ]
+  },
+  "warrior_amv": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "minecraftmod:levi-ackerman-amv-warriors-2wei",
+        "stream": false
+      }
+    ]
+  }
+}

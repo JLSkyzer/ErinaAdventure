@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraftmod:block/planet_teleporter_panel"
+    },
+    "facing=east": {
+      "model": "minecraftmod:block/planet_teleporter_panel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecraftmod:block/planet_teleporter_panel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraftmod:block/planet_teleporter_panel",
+      "y": 270
+    }
+  }
+}

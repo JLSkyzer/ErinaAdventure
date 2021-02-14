@@ -1,0 +1,24 @@
+{
+  "group": "minecraftmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmod:copper_liquid"
+    },
+    "1": {
+      "item": "minecraft:green_dye"
+    },
+    "2": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "minecraftmod:mothe_board",
+    "count": 1
+  }
+}

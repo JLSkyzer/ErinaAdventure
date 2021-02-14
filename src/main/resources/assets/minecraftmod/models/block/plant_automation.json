@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/generator_face",
+    "up": "minecraftmod:blocks/dirt_face",
+    "north": "minecraftmod:blocks/generator_face",
+    "east": "minecraftmod:blocks/generator_face",
+    "south": "minecraftmod:blocks/generator_face",
+    "west": "minecraftmod:blocks/generator_face",
+    "particle": "minecraftmod:blocks/generator_face"
+  }
+}

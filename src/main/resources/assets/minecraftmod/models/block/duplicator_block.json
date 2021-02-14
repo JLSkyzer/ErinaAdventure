@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/generator_face",
+    "up": "minecraftmod:blocks/generator_face",
+    "north": "minecraftmod:blocks/duplicator",
+    "east": "minecraftmod:blocks/duplicator",
+    "south": "minecraftmod:blocks/duplicator",
+    "west": "minecraftmod:blocks/duplicator",
+    "particle": "minecraftmod:blocks/generator_face"
+  }
+}

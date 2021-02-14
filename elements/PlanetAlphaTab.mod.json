@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "Planet Alpha Tab",
+    "icon": {
+      "value": "CUSTOM:PlanetAlphaGrass"
+    },
+    "showSearch": false
+  }
+}

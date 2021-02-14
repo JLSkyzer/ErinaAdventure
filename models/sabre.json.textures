@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bois",
+        "1": "or",
+        "2": "fer"
+      },
+      "name": "default"
+    }
+  }
+}

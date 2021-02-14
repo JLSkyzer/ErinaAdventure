@@ -1,0 +1,30 @@
+{
+  "group": "minecraftmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraftmod:blood_bottle"
+    },
+    "3": {
+      "item": "minecraftmod:blood_bottle"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraftmod:blood_bottle"
+    },
+    "7": {
+      "item": "minecraftmod:blood_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraftmod:blood_dirt",
+    "count": 2
+  }
+}

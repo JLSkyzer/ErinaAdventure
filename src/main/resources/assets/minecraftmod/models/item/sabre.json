@@ -1,0 +1,9 @@
+{
+  "parent": "minecraftmod:custom/sabre",
+  "textures": {
+    "0": "minecraftmod:blocks/bois",
+    "1": "minecraftmod:blocks/or",
+    "2": "minecraftmod:blocks/fer",
+    "particle": "minecraftmod:items/sabre_texture"
+  }
+}

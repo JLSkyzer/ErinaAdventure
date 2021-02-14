@@ -1,0 +1,29 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Survivor",
+          "onClick": {
+            "name": "WarriorButton"
+          },
+          "width": 65,
+          "height": 20,
+          "name": "Survivor",
+          "x": 128,
+          "y": 42
+        }
+      }
+    ]
+  }
+}

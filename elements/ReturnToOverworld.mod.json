@@ -1,0 +1,12 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "O",
+    "keyBindingName": "Return To Overworld",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "ReturnToOverworldOnKeyPressed"
+    }
+  }
+}

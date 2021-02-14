@@ -1,0 +1,42 @@
+{
+  "group": "minecraftmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:furnace"
+    },
+    "2": {
+      "item": "minecraft:stone_bricks"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "item": "minecraft:stone_bricks"
+    },
+    "7": {
+      "item": "minecraft:furnace"
+    },
+    "8": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraftmod:duplicator_block",
+    "count": 1
+  }
+}

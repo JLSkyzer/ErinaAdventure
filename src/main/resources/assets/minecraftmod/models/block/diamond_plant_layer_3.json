@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "minecraftmod:blocks/plant_player_3",
+    "particle": "minecraftmod:blocks/plant_player_3"
+  }
+}

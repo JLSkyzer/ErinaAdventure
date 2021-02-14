@@ -1,0 +1,10 @@
+{
+  "parent": "minecraftmod:custom/teleporterpanel",
+  "textures": {
+    "all": "minecraftmod:blocks/other_planet",
+    "particle": "minecraftmod:blocks/other_planet",
+    "0": "minecraftmod:blocks/planet_teleporter_base",
+    "1": "minecraftmod:blocks/claynoire",
+    "2": "minecraftmod:blocks/other_planet"
+  }
+}

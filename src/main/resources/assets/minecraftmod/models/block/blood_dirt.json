@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmod:blocks/dirt_face",
+    "up": "minecraftmod:blocks/blood_dirt_top",
+    "north": "minecraftmod:blocks/blood_dirt_side",
+    "east": "minecraftmod:blocks/blood_dirt_side",
+    "south": "minecraftmod:blocks/blood_dirt_side",
+    "west": "minecraftmod:blocks/blood_dirt_side",
+    "particle": "minecraftmod:blocks/dirt_face"
+  }
+}

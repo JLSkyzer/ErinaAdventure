@@ -1,0 +1,9 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "DOWN",
+    "keyBindingName": "Open Player Menu",
+    "keyBindingCategoryKey": "gameplay"
+  }
+}
